@@ -1,7 +1,7 @@
 import Counter from "./Counter";
 
 const App = () => {
-  return <Counter />;
-}
+  return <Counter />
+};
 
 export default App;
