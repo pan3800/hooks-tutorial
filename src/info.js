@@ -38,4 +38,5 @@ import { useReducer } from "react";
 
 };
 
+
 export default Info;
